@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="PAIP Session Schedule" max_length="40" name="x_bp3g_sh_paip_paip_session_schedule" type="collection">
+        <element label="Moderator" max_length="32" name="moderator" reference="x_bp3g_sh_administ_sh_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Session Date" max_length="40" name="session_date" type="glide_date"/>
+        <element choice="3" default="Scheduled" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Scheduled" sequence="10" value="Scheduled"/>
+                <element label="Completed" sequence="20" value="Completed"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="moderator"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="paip_status" table="x_bp3g_sh_paip_paip_process" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>paip_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Started</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 19:06:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88da6f23dba29b40e93a9c27db961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 19:06:36</sys_updated_on>
+            <value>Started</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>paip_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Assessment</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 17:00:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebfdfdbadb1a1700e93a9c27db961931</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 19:06:14</sys_updated_on>
+            <value>Assessment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>paip_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orientation</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 17:00:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c3efdbadb1a1700e93a9c27db961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 17:00:54</sys_updated_on>
+            <value>Orientation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>paip_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group Sessions</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 17:01:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f94e79fadb1a1700e93a9c27db961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 17:01:17</sys_updated_on>
+            <value>Group Sessions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>paip_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Exit</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 17:01:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>115e7dbadb1a1700e93a9c27db96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 17:01:31</sys_updated_on>
+            <value>Exit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>paip_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 17:01:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>906ef1fadb1a1700e93a9c27db961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 17:01:43</sys_updated_on>
+            <value>Completed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>paip_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Terminated</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <sequence>60</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 17:01:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b6eb9fadb1a1700e93a9c27db9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 17:01:55</sys_updated_on>
+            <value>Terminated</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>paip_status</element>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 17:00:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3ffdb1fadb1a1700e93a9c27db96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>paip_status</sys_name>
+            <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+            <sys_update_name>sys_choice_x_bp3g_sh_paip_paip_process_paip_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 17:00:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

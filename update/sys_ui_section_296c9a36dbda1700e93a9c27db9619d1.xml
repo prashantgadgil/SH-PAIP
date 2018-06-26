@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="296c9a36dbda1700e93a9c27db9619d1" sys_domain="global" table="x_bp3g_sh_paip_paip_task" version="3" view="paip_notification">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>195f3487db22d740e93a9c27db961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>d55f3487db22d740e93a9c27db961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>955f3487db22d740e93a9c27db961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>555f3487db22d740e93a9c27db961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>155f3487db22d740e93a9c27db961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>d15f3487db22d740e93a9c27db961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>915f3487db22d740e93a9c27db961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>515f3487db22d740e93a9c27db961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paip_process</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>115f3487db22d740e93a9c27db96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paip_process.orientation_status</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>dd5f3487db22d740e93a9c27db96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paip_process.attended_session_count</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>9d5f3487db22d740e93a9c27db96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>view</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:20:26</sys_created_on>
+            <sys_id>5d5f3487db22d740e93a9c27db96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="ed6c56b6db9a1700e93a9c27db961934">296c9a36dbda1700e93a9c27db9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:20:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_bp3g_sh_paip_paip_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 19:12:53</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>296c9a36dbda1700e93a9c27db9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_bp3g_sh_paip_paip_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+            <sys_update_name>sys_ui_section_296c9a36dbda1700e93a9c27db9619d1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 19:12:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="paip_notification" name="paip_notification">ed6c56b6db9a1700e93a9c27db961934</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

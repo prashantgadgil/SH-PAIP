@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <description/>
+        <label_cache>[]</label_cache>
+        <latest_snapshot display_value="Open PAIP Assessments Action">947cf36bdbe29b40e93a9c27db9619fa</latest_snapshot>
+        <name>Open PAIP Assessments Action</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-13 20:21:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d30cf7e7dbe29b40e93a9c27db961946</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Open PAIP Assessments Action</sys_name>
+        <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_d30cf7e7dbe29b40e93a9c27db961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-13 20:23:39</sys_updated_on>
+        <system_level>false</system_level>
+    </sys_hub_action_type_definition>
+    <sys_variable_value action="delete_multiple" query="document_key=d30cf7e7dbe29b40e93a9c27db961946"/>
+</record_update>

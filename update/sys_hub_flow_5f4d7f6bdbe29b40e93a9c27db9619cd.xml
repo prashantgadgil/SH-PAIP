@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description>Open PAIP Appointments</description>
+        <label_cache>[]</label_cache>
+        <latest_snapshot display_value="Open PAIP Appointments">03bdf3ebdbe29b40e93a9c27db961923</latest_snapshot>
+        <name>Open PAIP Appointments</name>
+        <remote_trigger_id>35ac7b6bdbe29b40e93a9c27db96193c</remote_trigger_id>
+        <show_draft_actions>false</show_draft_actions>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-13 20:27:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5f4d7f6bdbe29b40e93a9c27db9619cd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Open PAIP Appointments</sys_name>
+        <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+        <sys_update_name>sys_hub_flow_5f4d7f6bdbe29b40e93a9c27db9619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-13 20:40:17</sys_updated_on>
+    </sys_hub_flow>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="PAIP Task" max_length="40" name="x_bp3g_sh_paip_paip_task" sizeclass="4" type="collection">
+        <element label="PAIP Process" max_length="32" name="paip_process" reference="x_bp3g_sh_paip_paip_process" reference_cascade_rule="delete" type="reference"/>
+        <element label="View" max_length="40" name="view" type="string"/>
+    </element>
+</database>

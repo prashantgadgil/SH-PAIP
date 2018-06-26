@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>PAIP Director</description>
+        <elevated_privilege>true</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_bp3g_sh_paip.PAIP Director</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>PAIP Director</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-01 11:58:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>bd8510b3db5a1b00e93a9c27db961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_bp3g_sh_paip.PAIP Director</sys_name>
+        <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+        <sys_update_name>sys_user_role_bd8510b3db5a1b00e93a9c27db961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-01 11:58:16</sys_updated_on>
+    </sys_user_role>
+</record_update>

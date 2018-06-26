@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="orientation_date" label="Orientation Date" language="en" table="x_bp3g_sh_paip_paip_process">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>orientation_date</element>
+            <help/>
+            <hint/>
+            <label>Orientation Date</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <plural>Orientation Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 22:48:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ea277fd6db2a1740e93a9c27db96194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Orientation Date</sys_name>
+            <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+            <sys_update_name>sys_documentation_x_bp3g_sh_paip_paip_process_orientation_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 22:48:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Notifications" section_id="e62a0d16db2ed340e93a9c27db9619a1" sys_domain="global" table="x_bp3g_sh_paip_paip_process" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>referrer</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 13:45:43</sys_created_on>
+            <sys_id>e40b315edbeed340e93a9c27db96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notifications" display_value="Notifications" name="x_bp3g_sh_paip_paip_process" sys_domain="global" view="Default view">e62a0d16db2ed340e93a9c27db9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 13:45:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>referrer_notified</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 13:45:43</sys_created_on>
+            <sys_id>a40b315edbeed340e93a9c27db96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notifications" display_value="Notifications" name="x_bp3g_sh_paip_paip_process" sys_domain="global" view="Default view">e62a0d16db2ed340e93a9c27db9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 13:45:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner_notification_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 13:45:43</sys_created_on>
+            <sys_id>640b315edbeed340e93a9c27db96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notifications" display_value="Notifications" name="x_bp3g_sh_paip_paip_process" sys_domain="global" view="Default view">e62a0d16db2ed340e93a9c27db9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 13:45:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 13:45:43</sys_created_on>
+            <sys_id>240b315edbeed340e93a9c27db96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notifications" display_value="Notifications" name="x_bp3g_sh_paip_paip_process" sys_domain="global" view="Default view">e62a0d16db2ed340e93a9c27db9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 13:45:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner_notified</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 13:45:43</sys_created_on>
+            <sys_id>e00b315edbeed340e93a9c27db961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notifications" display_value="Notifications" name="x_bp3g_sh_paip_paip_process" sys_domain="global" view="Default view">e62a0d16db2ed340e93a9c27db9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 13:45:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>referrer_notification_method</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 13:45:43</sys_created_on>
+            <sys_id>a00b315edbeed340e93a9c27db961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notifications" display_value="Notifications" name="x_bp3g_sh_paip_paip_process" sys_domain="global" view="Default view">e62a0d16db2ed340e93a9c27db9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 13:45:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notifications</caption>
+            <header>false</header>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 10:12:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e62a0d16db2ed340e93a9c27db9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Notifications</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+            <sys_update_name>sys_ui_section_e62a0d16db2ed340e93a9c27db9619a1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 10:12:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

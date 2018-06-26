@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Misc" section_id="de17248bdbae9740e93a9c27db9619b3" sys_domain="global" table="x_bp3g_sh_paip_paip_task" version="3" view="intake_assessment">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paip_process.intake_category</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:57:27</sys_created_on>
+            <sys_id>5bc701c3db62d740e93a9c27db9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Misc" display_value="Misc" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="14db5af2dbda1700e93a9c27db961974">de17248bdbae9740e93a9c27db9619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:57:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paip_process.assessment_payment</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:57:27</sys_created_on>
+            <sys_id>1bc701c3db62d740e93a9c27db9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Misc" display_value="Misc" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="14db5af2dbda1700e93a9c27db961974">de17248bdbae9740e93a9c27db9619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:57:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:57:27</sys_created_on>
+            <sys_id>d7c701c3db62d740e93a9c27db9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Misc" display_value="Misc" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="14db5af2dbda1700e93a9c27db961974">de17248bdbae9740e93a9c27db9619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:57:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paip_process.group_available_day</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 17:57:27</sys_created_on>
+            <sys_id>97c701c3db62d740e93a9c27db9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Misc" display_value="Misc" name="x_bp3g_sh_paip_paip_task" sys_domain="global" view="14db5af2dbda1700e93a9c27db961974">de17248bdbae9740e93a9c27db9619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 17:57:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Misc</caption>
+            <header>false</header>
+            <name>x_bp3g_sh_paip_paip_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:34:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de17248bdbae9740e93a9c27db9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Misc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+            <sys_update_name>sys_ui_section_de17248bdbae9740e93a9c27db9619b3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:34:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="intake_assessment" name="intake_assessment">14db5af2dbda1700e93a9c27db961974</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

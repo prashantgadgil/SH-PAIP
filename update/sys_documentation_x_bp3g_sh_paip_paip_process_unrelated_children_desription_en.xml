@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="unrelated_children_desription" label="Unrelated Children Desription" language="en" table="x_bp3g_sh_paip_paip_process">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>unrelated_children_desription</element>
+            <help/>
+            <hint/>
+            <label>Unrelated Children Desription</label>
+            <language>en</language>
+            <name>x_bp3g_sh_paip_paip_process</name>
+            <plural>Unrelated Children Desriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-09 19:26:57</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4f19cf16db661740e93a9c27db961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Unrelated Children Desription</sys_name>
+            <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+            <sys_update_name>sys_documentation_x_bp3g_sh_paip_paip_process_unrelated_children_desription_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-09 19:26:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="PAIP Process" max_length="40" name="x_bp3g_sh_paip_paip_process" sizeclass="1" type="collection">
+        <element comments="Misc" label="Assessment Date" max_length="40" name="assessment_date" type="glide_date_time"/>
+        <element comments="Action" label="Assessment Payment" max_length="20" name="assessment_payment" type="currency"/>
+        <element choice="1" default="Not Scheduled" label="Assessment Status" max_length="40" name="assessment_status" type="choice">
+            <choice>
+                <element label="Not Scheduled" sequence="10" value="Not Scheduled"/>
+                <element label="Scheduled" sequence="20" value="Scheduled"/>
+                <element label="Ready" sequence="30" value="Ready"/>
+                <element label="Completed" sequence="40" value="Completed"/>
+            </choice>
+        </element>
+        <element comments="Attended Session Count" default="0" label="Attended Session Count" max_length="40" name="attended_session_count" type="integer"/>
+        <element comments="Overall Health" label="Blackout Description" max_length="400" name="blackout_description" type="string"/>
+        <element comments="Overall Health" label="Blackout Experienced" max_length="32" name="blackout_experienced" reference="x_bp3g_sh_administ_lookup" reference_qual="type=YesDenies^EQ" reference_qual_condition="type=YesDenies^EQ" type="reference"/>
+        <element comments="Personal Info" label="Current Living and Work" max_length="400" name="current_living_and_work" type="string"/>
+        <element comments="Discharge" label="Discharge Date" max_length="40" name="discharge_date" type="glide_date"/>
+        <element comments="Discharge" label="Discharge Facilitator" max_length="32" name="discharge_facilitator" reference="x_bp3g_sh_administ_sh_user" type="reference"/>
+        <element choice="1" comments="Discharge" default="Normal Completion" label="Discharge Reason" max_length="40" name="discharge_reason" reference="x_bp3g_sh_administ_lookup" reference_qual="type=DischargeReason^EQ" reference_qual_condition="type=DischargeReason^EQ" type="reference">
+            <choice/>
+        </element>
+        <element label="Enrollment" max_length="32" name="enrollment" reference="x_bp3g_sh_client_enrollment" reference_cascade_rule="delete" type="reference"/>
+        <element comments="Misc" label="Group Available Day" max_length="32" name="group_available_day" reference="x_bp3g_sh_administ_lookup" reference_qual="type=DayOfWeek^EQ" reference_qual_condition="type=DayOfWeek^EQ" type="reference"/>
+        <element choice="3" comments="Action" label="Intake Category" max_length="40" name="intake_category" type="choice">
+            <choice>
+                <element label="New Intake" sequence="10" value="New Intake"/>
+                <element label="Re-Admit Intake" sequence="20" value="Re-Admit Intake"/>
+                <element label="Re-Admint No Intake" sequence="30" value="Re-Admint No Intake"/>
+            </choice>
+        </element>
+        <element comments="Misc" label="Orientation Date" max_length="40" name="orientation_date" type="glide_date"/>
+        <element choice="3" comments="Orientation Status" default="Ready" label="Orientation Status" max_length="40" name="orientation_status" type="choice">
+            <choice>
+                <element label="Not Needed" sequence="10" value="Not Needed"/>
+                <element label="Ready" sequence="20" value="Ready"/>
+                <element label="Completed" sequence="30" value="Completed"/>
+            </choice>
+        </element>
+        <element choice="1" default="Started" label="PAIP Status" max_length="40" name="paip_status" type="choice">
+            <choice>
+                <element label="Started" sequence="5" value="Started"/>
+                <element label="Assessment" sequence="10" value="Assessment"/>
+                <element label="Orientation" sequence="20" value="Orientation"/>
+                <element label="Group Sessions" sequence="30" value="Group Sessions"/>
+                <element label="Exit" sequence="40" value="Exit"/>
+                <element label="Completed" sequence="50" value="Completed"/>
+                <element label="Terminated" sequence="60" value="Terminated"/>
+            </choice>
+        </element>
+        <element comments="Notification" label="Partner Notification Date" max_length="40" name="partner_notification_date" type="glide_date"/>
+        <element choice="1" comments="Notification" default="No" label="Partner Notified" max_length="40" name="partner_notified" reference="x_bp3g_sh_administ_lookup" reference_qual="type=YesNo^EQ" reference_qual_condition="type=YesNo^EQ" type="reference">
+            <choice/>
+        </element>
+        <element comments="Personal Info" label="Partner Worries" max_length="400" name="partner_worries" type="string"/>
+        <element comments="Action" label="Referrer" max_length="32" name="referrer" reference="x_bp3g_sh_administ_referrer" type="reference"/>
+        <element comments="Notification" label="Referrer Notification Method" max_length="32" name="referrer_notification_method" reference="x_bp3g_sh_administ_lookup" reference_qual="type=NotificationMethod^EQ" reference_qual_condition="type=NotificationMethod^EQ" type="reference"/>
+        <element comments="Notification" label="Referrer Notified" max_length="32" name="referrer_notified" reference="x_bp3g_sh_administ_lookup" reference_qual="type=YesNo^EQ" reference_qual_condition="type=YesNo^EQ" type="reference"/>
+        <element comments="Action" label="Service Time" max_length="40" name="service_time" type="glide_duration"/>
+        <element comments="MIsc" label="Sessions Start Date" max_length="40" name="sessions_start_date" type="glide_date"/>
+        <element comments="Parenting" label="Unrelated Children" max_length="32" name="unrelated_children" reference="x_bp3g_sh_administ_lookup" reference_qual="type=YesDenies^EQ" reference_qual_condition="type=YesDenies^EQ" type="reference"/>
+        <element comments="Parenting" label="Unrelated Children Desription" max_length="400" name="unrelated_children_desription" type="string"/>
+    </element>
+</database>

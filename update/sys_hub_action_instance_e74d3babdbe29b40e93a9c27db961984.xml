@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Open PAIP Assessments Action">947cf36bdbe29b40e93a9c27db9619fa</action_type>
+        <comment>Open all PAIP Assessments Tasks</comment>
+        <compiled_snapshot display_value="Open PAIP Assessments Action">947cf36bdbe29b40e93a9c27db9619fa</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Open PAIP Appointments">5f4d7f6bdbe29b40e93a9c27db9619cd</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-13 20:27:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e74d3babdbe29b40e93a9c27db961984</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+        <sys_update_name>sys_hub_action_instance_e74d3babdbe29b40e93a9c27db961984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-13 20:29:17</sys_updated_on>
+        <ui_id>67f1794d-ac89-459c-80f1-6af928541e4d</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e74d3babdbe29b40e93a9c27db961984"/>
+</record_update>

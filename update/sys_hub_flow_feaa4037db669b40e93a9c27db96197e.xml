@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description/>
+        <label_cache>[{"name":"Created_1.current","label":"Trigger➛PAIP Process Record","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process","type":"reference","base_type":"reference"},{"name":"Created_1.current.enrollment.client","label":"Trigger➛PAIP Process Record➛Enrollment➛Client","reference":"x_bp3g_sh_client_client","reference_display":"Client","type":"reference","base_type":"reference","parent_table_name":"x_bp3g_sh_client_enrollment","column_name":"client"},{"name":"66772cf6-6aa5-41cb-adb0-821d6bacfe0e.Table","label":"1➛PAIP Task Table","reference":"x_bp3g_sh_paip_paip_task","reference_display":"PAIP Task Table"},{"name":"66772cf6-6aa5-41cb-adb0-821d6bacfe0e.Record","label":"1➛PAIP Task Record","reference":"x_bp3g_sh_paip_paip_task","reference_display":"PAIP Task Record"},{"name":"b243e7fb-621d-4d03-b67b-1dadd298d7ef.record","label":"2➛PAIP Process Record","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Record"},{"name":"b243e7fb-621d-4d03-b67b-1dadd298d7ef.table_name","label":"2➛PAIP Process Table","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Table"},{"name":"83adb72d-60e5-42e5-986c-f95610e69f28.Table","label":"4➛PAIP Task Table","reference":"x_bp3g_sh_paip_paip_task","reference_display":"PAIP Task Table"},{"name":"83adb72d-60e5-42e5-986c-f95610e69f28.Record","label":"4➛PAIP Task Record","reference":"x_bp3g_sh_paip_paip_task","reference_display":"PAIP Task Record"},{"name":"2e943654-9d3e-4620-b800-8a396c9885be.Table","label":"6➛PAIP Task Table","reference":"x_bp3g_sh_paip_paip_task","reference_display":"PAIP Task Table"},{"name":"2e943654-9d3e-4620-b800-8a396c9885be.Record","label":"6➛PAIP Task Record","reference":"x_bp3g_sh_paip_paip_task","reference_display":"PAIP Task Record"},{"name":"f769d30f-0b3d-4d49-80d4-512ed4ea6a0f.record","label":"7➛PAIP Process Record","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Record"},{"name":"f769d30f-0b3d-4d49-80d4-512ed4ea6a0f.table_name","label":"7➛PAIP Process Table","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Table"},{"name":"fabe65ca-7c9b-4763-881c-a8df4a131037.record","label":"9➛PAIP Process Record","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Record"},{"name":"fabe65ca-7c9b-4763-881c-a8df4a131037.table_name","label":"9➛PAIP Process Table","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Table"},{"name":"4ca5dbc1-86e3-4843-b7ac-1e71d13bc2bf.record","label":"11➛PAIP Process Record","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Record"},{"name":"4ca5dbc1-86e3-4843-b7ac-1e71d13bc2bf.table_name","label":"11➛PAIP Process Table","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Table"},{"name":"d5f891d8-1fc5-44d2-920c-fa69617de97e.Table","label":"12➛PAIP Task Table","reference":"x_bp3g_sh_paip_paip_task","reference_display":"PAIP Task Table"},{"name":"d5f891d8-1fc5-44d2-920c-fa69617de97e.Record","label":"12➛PAIP Task Record","reference":"x_bp3g_sh_paip_paip_task","reference_display":"PAIP Task Record"},{"name":"941fe699-c4ef-43d3-8952-57d643dd0a60.record","label":"5➛PAIP Process Record","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Record"},{"name":"941fe699-c4ef-43d3-8952-57d643dd0a60.table_name","label":"5➛PAIP Process Table","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Table"},{"name":"bc2eb596-2a11-4ed2-a40a-ff1a7d3b16a4.record","label":"14➛PAIP Process Record","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Record"},{"name":"bc2eb596-2a11-4ed2-a40a-ff1a7d3b16a4.table_name","label":"14➛PAIP Process Table","reference":"x_bp3g_sh_paip_paip_process","reference_display":"PAIP Process Table"}]</label_cache>
+        <latest_snapshot display_value="PAIP Process Flow">e2913cb3db2a9b40e93a9c27db9619d8</latest_snapshot>
+        <name>PAIP Process Flow</name>
+        <remote_trigger_id>16fa4077db669b40e93a9c27db96198d</remote_trigger_id>
+        <show_draft_actions>false</show_draft_actions>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-13 21:25:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>feaa4037db669b40e93a9c27db96197e</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>PAIP Process Flow</sys_name>
+        <sys_package display_value="SH PAIP" source="x_bp3g_sh_paip">2538a5fadb961700e93a9c27db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SH PAIP">2538a5fadb961700e93a9c27db961918</sys_scope>
+        <sys_update_name>sys_hub_flow_feaa4037db669b40e93a9c27db96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-18 20:54:13</sys_updated_on>
+    </sys_hub_flow>
+</record_update>
